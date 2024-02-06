@@ -14,3 +14,12 @@ https://youtu.be/9ml3fYnLGYc
 ## Technologies Used
 1. Python in VS Code to create a random card generator using the cloud database.
 2. Microsoft Azure to create and host the cloud database.
+
+## Useful Websites
+- [Microsoft Azure](https://azure.microsoft.com/en-us/support)
+- [Devart](https://docs.devart.com/odbc/sqlserver/python.htm)
+
+## Future Work
+- Add image storage in the database.
+- Display the correct image for a card when ran.
+- Create a web application that can utilize the cloud database.
